@@ -1,0 +1,1 @@
+Resources foldercontains four image files - layout, rock, paper, scissor - used by computer to display game window
